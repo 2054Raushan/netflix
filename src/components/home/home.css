@@ -1,0 +1,12 @@
+.slider {
+    display: flex;
+    overflow-x: auto;
+    border-radius: 8px;
+  
+  }
+  .slide {
+    width: 230px;
+    flex-shrink: 0;
+    height: 100%;
+    margin-right: 10px;
+  }
